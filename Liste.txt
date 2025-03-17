@@ -3,4 +3,3 @@ E-Ticaret Uygulaması Özellikleri:
 2. **Sepet ve Ödeme İşlemleri:** Kullanıcılar ürünleri sepete ekleyebilir, farklı ödeme yöntemleriyle (kredi kartı, havale, dijital cüzdan vb.) güvenli şekilde alışveriş yapabilir.    
 3. ** Yorumlar:** Kullanıcılar satın aldıkları ürünler hakkında yorum yapabilir.  
 4. **Admin Paneli ve Yetkilendirme:** Admin ürünleri, siparişleri ve kullanıcıları yönetebilir, roller belirleyebilir.
-5. dsadsadsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadsadsadsadsadasdddd
